@@ -1,0 +1,7 @@
+env/
+.env
+
+_pycache_/
+.vscode/
+
+start.rar
